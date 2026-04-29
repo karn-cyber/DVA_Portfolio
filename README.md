@@ -76,7 +76,7 @@ Supports data-driven decision-making for improving recommendation engines and en
 ## Contact
 
 - Email: neelanshu.2024@nst.rishihood.edu.in  
-- LinkedIn: (Add your profile link here)  
+- LinkedIn: [Neelanshu Karn](https://www.linkedin.com/in/neelanshu-karn-05146130a/)
 
 ---
 
